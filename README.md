@@ -5,7 +5,7 @@ Project ini adalah latihan membuat kartu profil sederhana menggunakan HTML dan C
 ## Teknologi
 
 - HTML5
-- CSS3
+- TailwindCSS
 
 ## Cara Menjalankan
 
