@@ -13,4 +13,4 @@ Buka file `index.html` di browser favorit kamu untuk melihat hasilnya.
 
 ## Author
 
-- [SabunTombak](https://github.com/SabunTombak)
+- [Yazid](https://github.com/rahmanyazid)
